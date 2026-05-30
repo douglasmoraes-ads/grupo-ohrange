@@ -73,7 +73,7 @@ function Estrelas({ count }: { count: number }) {
 export default function ProvasSocial() {
   return (
     <section
-      className="bg-cloud py-24 px-6 md:px-12"
+      className="bg-cloud py-24 px-6 md:px-12 overflow-hidden"
       aria-labelledby="provas-heading"
     >
       <div className="max-w-6xl mx-auto">

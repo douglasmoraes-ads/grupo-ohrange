@@ -30,7 +30,7 @@ const passos = [
 export default function ComoFunciona() {
   return (
     <section
-      className="bg-mango py-24 px-6 md:px-12"
+      className="bg-mango py-24 px-6 md:px-12 overflow-hidden"
       aria-labelledby="como-funciona-heading"
     >
       <div className="max-w-5xl mx-auto">
@@ -43,7 +43,7 @@ export default function ComoFunciona() {
           <AnimateIn delay={100}>
             <h2
               id="como-funciona-heading"
-              className="font-display font-extrabold text-midnight text-4xl md:text-5xl leading-tight tracking-tight whitespace-nowrap"
+              className="font-display font-extrabold text-midnight text-2xl sm:text-3xl md:text-4xl leading-tight tracking-tight"
             >
               Como funciona, do início ao resultado.
             </h2>

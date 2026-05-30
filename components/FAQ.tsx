@@ -79,7 +79,7 @@ export default function FAQ() {
 
   return (
     <section
-      className="bg-midnight py-24 px-6 md:px-12"
+      className="bg-midnight py-24 px-6 md:px-12 overflow-hidden"
       aria-labelledby="faq-heading"
     >
       <div className="max-w-3xl mx-auto">
