@@ -3,7 +3,7 @@ import { MetadataRoute } from 'next'
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: 'https://grupoohrange.com.br',
+      url: 'https://www.grupoohrange.com.br',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 1,
