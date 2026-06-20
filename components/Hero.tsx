@@ -62,24 +62,21 @@ export default function Hero() {
 
         {/* H1 */}
         <h1 className="animate-fade-in-up stagger-1 font-display font-extrabold text-white leading-[1.1] tracking-tight mb-6 text-4xl sm:text-5xl lg:text-6xl">
-          Mais clientes em{' '}
+          Mais hóspedes todo mês, sem depender de sorte ou{' '}
           <span className="relative inline-block">
-            <span className="relative z-10 text-[#FF6B20]">30 dias</span>
+            <span className="relative z-10 text-[#FF6B20]">Booking.</span>
             <span
               aria-hidden="true"
               className="absolute inset-x-0 bottom-1 h-1.5 bg-[#FF6B20]/20 rounded-sm"
             />
           </span>
-          <br />
-          ou seu dinheiro de volta.
         </h1>
 
         {/* subheadline */}
         <p className="animate-fade-in-up stagger-2 text-white/60 text-lg sm:text-xl max-w-2xl leading-relaxed mb-10">
           Somos o Grupo Ohrange, agência de tráfego pago e gestão de CRM para
-          empresas em Santa Catarina que faturam acima de{' '}
-          <strong className="text-white/80 font-semibold">R$&nbsp;30&nbsp;mil/mês</strong>{' '}
-          e querem escalar vendas com previsibilidade, não com sorte.
+          hotéis e pousadas em Santa Catarina que querem lotar a casa com previsibilidade,
+          não só na alta temporada.
         </p>
 
         {/* CTA */}

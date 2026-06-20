@@ -6,7 +6,7 @@ const perguntas = [
   {
     pergunta: 'Quanto custa o serviço?',
     resposta:
-      'O valor varia conforme o escopo: canais, orçamento de mídia, necessidade de CRM e landing page. Mas você só descobre se faz sentido para o seu negócio depois do diagnóstico gratuito, onde apresentamos uma proposta personalizada. Não trabalhamos com pacotes engessados.',
+      'O valor varia conforme o escopo: canais, orçamento de mídia, necessidade de CRM e landing page. Mas você só descobre se faz sentido para a sua pousada/hotel depois do diagnóstico gratuito, onde apresentamos uma proposta personalizada. Não trabalhamos com pacotes engessados.',
   },
   {
     pergunta: 'Por que devo confiar no Grupo Ohrange?',
@@ -24,9 +24,9 @@ const perguntas = [
       'Esse é o cenário mais comum entre os clientes que chegam até nós. A maioria vem de experiências ruins com agências que não medem resultado ou "especialistas" que entregam apenas alcance e engajamento. Nossa abordagem é diferente: começa pelo diagnóstico, tem metas claras e você acompanha o que está acontecendo toda semana.',
   },
   {
-    pergunta: 'Meu negócio é pequeno. Isso é para mim?',
+    pergunta: 'Minha pousada/hotel é pequena. Isso é para mim?',
     resposta:
-      'Atendemos empresas que faturam a partir de R$&nbsp;30&nbsp;mil/mês, não porque negócios menores não merecem, mas porque abaixo desse faturamento o custo de gestão profissional raramente se paga com eficiência. Se você ainda não chegou lá, o diagnóstico pode apontar o que falta para chegar.',
+      'Atendemos empresas que faturam a partir de R$&nbsp;30&nbsp;mil/mês, não porque pousadas/hotéis menores não merecem, mas porque abaixo desse faturamento o custo de gestão profissional raramente se paga com eficiência. Se você ainda não chegou lá, o diagnóstico pode apontar o que falta para chegar.',
   },
   {
     pergunta: 'Preciso assinar um contrato longo?',

@@ -5,7 +5,7 @@ const passos = [
     numero: '01',
     titulo: 'Diagnóstico gratuito',
     descricao:
-      'Uma conversa de 30 minutos onde mapeamos o que está funcionando, o que está errado e onde está o maior potencial de crescimento do seu negócio. Sem compromisso.',
+      'Uma conversa de 30 minutos onde mapeamos o que está funcionando, o que está errado e onde está o maior potencial de crescimento da sua pousada/hotel. Sem compromisso.',
   },
   {
     numero: '02',

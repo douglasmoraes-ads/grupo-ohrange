@@ -14,7 +14,7 @@ const depoimentos = [
     negocio: 'Pousada · Bombinhas',
     iniciais: 'RL',
     texto:
-      'Sempre tive medo de tráfego pago porque já tinha sido enganado antes. A garantia de 30 dias me convenceu a testar. No primeiro mês fechamos 7 reservas direto pelo anúncio.',
+      'Sempre tive medo de tráfego pago porque já tinha sido enganado antes. A garantia de 30 dias me convenceu a testar. No primeiro mês fechamos 7 reservas direto pelo anúncio, sem pagar comissão pro Booking.',
     estrelas: 5,
   },
   {
@@ -88,7 +88,7 @@ export default function ProvasSocial() {
               id="provas-heading"
               className="font-display text-midnight text-3xl sm:text-4xl lg:text-5xl leading-tight tracking-tight"
             >
-              <span className="font-light">Quem já decidiu </span><span className="font-extrabold">parar de depender da sorte.</span>
+              <span className="font-light">Quem já decidiu </span><span className="font-extrabold">parar de depender da sazonalidade.</span>
             </h2>
           </AnimateIn>
         </div>

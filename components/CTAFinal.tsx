@@ -38,7 +38,7 @@ export default function CTAFinal() {
 
         <AnimateIn delay={200}>
           <p className="text-white/80 text-lg sm:text-xl leading-relaxed mb-10 max-w-xl mx-auto">
-            Uma conversa de 30 minutos. Saída com plano claro de aquisição,{' '}
+            Uma conversa de 30 minutos. Saída com plano claro de ocupação,{' '}
             <strong className="text-white">mesmo que você decida não fechar com a gente.</strong>
           </p>
         </AnimateIn>
@@ -93,7 +93,7 @@ export default function CTAFinal() {
           <div className="mt-12 bg-white/10 border border-white/20 rounded-2xl px-7 py-6 text-left">
             <p className="text-white/90 text-sm leading-relaxed">
               <strong className="text-white font-semibold">Sobre a garantia:</strong>{' '}
-              Você sai do diagnóstico com um plano claro de aquisição, mesmo que decida não fechar com a gente.
+              Você sai do diagnóstico com um plano claro de ocupação, mesmo que decida não fechar com a gente.
               E se fechar, tem 30 dias para ver resultado ou recebe o investimento da gestão de volta,
               sem burocracia e sem questionamento.
             </p>

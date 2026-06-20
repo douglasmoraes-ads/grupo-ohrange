@@ -1,9 +1,9 @@
 import AnimateIn from './AnimateIn'
 
 const dores = [
-  'Relatório chega com "alcance", "impressões" e "engajamento", mas sem resposta de quantos clientes entraram.',
-  'Leads de baixa qualidade enchendo o WhatsApp enquanto o faturamento não sai do lugar.',
-  'Cada mês sem estratégia clara é dinheiro deixado na mesa pro concorrente do lado.',
+  'Reserva direta quase não acontece. Quase tudo vem do Booking, e a comissão come boa parte do seu lucro.',
+  'Na baixa temporada o telefone para de tocar e você não sabe como preencher os quartos.',
+  'Cada mês de baixa ocupação é dinheiro deixado na mesa, enquanto a pousada do lado lota o quarto com anúncio.',
 ]
 
 export default function Problema() {
@@ -24,7 +24,7 @@ export default function Problema() {
             id="problema-heading"
             className="font-display text-midnight text-3xl sm:text-4xl lg:text-5xl leading-tight tracking-tight mb-10"
           >
-            <span className="font-light">Você já investiu em anúncios.</span><br />
+            <span className="font-light">Você já tentou Booking, Instagram e indicação.</span><br />
             <span className="font-extrabold">O resultado foi sempre o mesmo.</span>
           </h2>
         </AnimateIn>
@@ -50,11 +50,11 @@ export default function Problema() {
         <AnimateIn delay={400}>
           <div className="bg-midnight rounded-3xl px-8 py-10 text-white">
             <p className="text-lg sm:text-xl leading-relaxed text-white/70 mb-6">
-              Seu salão, sua pousada, sua clínica, seu restaurante continua dependendo de{' '}
-              <strong className="text-white">indicação, sorte e do feed orgânico do Instagram.</strong>
+              Sua pousada, seu hotel, sua estalagem continua dependendo de{' '}
+              <strong className="text-white">plataforma de terceiro, sazonalidade e do feed orgânico do Instagram.</strong>
             </p>
             <p className="text-base sm:text-lg leading-relaxed text-white/70">
-              Enquanto você espera, o concorrente do lado está captando clientes com uma máquina de aquisição que funciona de forma previsível, toda semana, todo mês.{' '}
+              Enquanto você espera a alta temporada, o concorrente está captando reserva direta com uma máquina de aquisição que funciona o ano inteiro.{' '}
               <strong className="text-[#FF6B20]">Essa máquina é o que a gente constrói pra você.</strong>
             </p>
           </div>
